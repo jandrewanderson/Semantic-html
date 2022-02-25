@@ -6,7 +6,7 @@ This purpose of this project was to take the generic HTML code, that typically s
 
 ## Screenshot of Final Page
 
---------------
+![Final Page](./assets/images/screenshot_of_final_page.png)
 
 ## Link to the Final Page and GitHub
 
@@ -17,6 +17,11 @@ This purpose of this project was to take the generic HTML code, that typically s
 ### Contributions
 
 Joseph Andrew Anderson
+
+I worked with the following students:
+Kelly Jefferies
+Eugene Ahn
+Vidal Tan
 
 ### Resources
 

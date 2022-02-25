@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* changed .header to simply header due to the altered tags in the html file. */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +24,8 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
+/* Paths through the nav tag instead of the previous div tag. */
 
 header nav {
     padding-top: 15px;
@@ -50,6 +53,8 @@ p {
     font-size: 16px;
 }
 
+/* The figure tag was listed as class 'hero' before. */
+
 figure {
     height: 800px;
     width: 100%;
@@ -69,11 +74,15 @@ figure {
     margin-left: 25px;
 }
 
+/* Changed div to main */
+
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Changed div to aside */
 
 aside {
     margin-right: 20px;
@@ -187,6 +196,8 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Changed div to footer. */
 
 footer {
     padding: 30px;
